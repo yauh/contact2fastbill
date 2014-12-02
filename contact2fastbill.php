@@ -2,8 +2,7 @@
 /*
 Plugin Name: Contact2FastBill
 Plugin URI: http://yauh.de/
-Description: Create new customer in FastBill based on Contact 7 contact form,
-             tested and compatible with Contact Form 7 v 4.0
+Description: Create new customer in FastBill based on Contact 7 contact form, tested and compatible with Contact Form 7 v 4.0
 Author: Stephan Hochhaus
 Version: 0.2 - 2014-12-02
 Author URI: http://yauh.de/
